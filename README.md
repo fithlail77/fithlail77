@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on several projects about web dashboards using the Laravel framework.
+Saya seorang IT yang masih perlu banyak belajar lagi. Pada github hanya repo yang masih di bidang web dan kedepannya akan di update dengan repo tentang IT yang lain hasil dari oprek-oprek sendiri.
 
 
 ## 🌐 Socials:
